@@ -47,11 +47,11 @@ resume_section_associations:    true
 resume_social_links:
   resume_github_url:            "https://github.com/torivara/"
   resume_twitter_url:           "http://twitter.com/torivara"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/tor-ivar-asbølmo-343a2820"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://torivar.com"
+  resume_website_url:           "https://torivar.com"
   # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
